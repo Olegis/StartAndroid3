@@ -1,0 +1,3 @@
+include ':p0771_tabintent'
+include ':app'
+rootProject.name = "StartAndroid3"
