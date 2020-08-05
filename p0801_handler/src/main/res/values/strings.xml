@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Handler</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_test">Test</string>
+</resources>

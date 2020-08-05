@@ -1,3 +1,4 @@
+include ':p0801_handler'
 include ':p0791_xmlpullparser'
 include ':p0781_tabcontentfactory'
 include ':p0771_tabintent'
