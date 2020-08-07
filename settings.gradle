@@ -1,3 +1,4 @@
+include ':p0831_handlermessagemanage'
 include ':p0821_handleravdmessage'
 include ':p0811_handlersimplemessage'
 include ':p0801_handler'
