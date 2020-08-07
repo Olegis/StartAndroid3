@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         tvStatus = findViewById(R.id.tvStatus);
         pbDownload = findViewById(R.id.pbDownload);
-        btnConnect = findViewById(R.id.btnConntent);
+        btnConnect = findViewById(R.id.btnConnect);
 
         h = new Handler() {
             public void handlerMessage(android.os.Message msg) {
