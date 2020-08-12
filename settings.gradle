@@ -1,3 +1,4 @@
+include ':p0921_servicesimple'
 include ':p0911_asynctaskrotate'
 include ':p0901_asynctaskstatys'
 include ':p0891_asynctaskcancel'
