@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceBackPendingIntent</string>
+    <string name="btn_start">Start</string>
+</resources>
