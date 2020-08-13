@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceStop</string>
+    <string name="btn_start">Start</string>
+</resources>
